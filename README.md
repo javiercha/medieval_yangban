@@ -3,7 +3,7 @@
 In this space, I share the Jupyter notebooks and data sets used in my digital historical research of the medieval Korean yangban. This monograph-length study is an extension and data-heavy treatment of the _problématique_ covered in the article "[To Build a Centralizing Regime: Yangban Aristocracy and Medieval Patrimonialism](https:**//doi.org/10.1353/seo.2019.0003)."
 
 ***
-The data sources are from the following:
+Data sources:
 * **Lee Jaeok Munkwa Nodes:** http://dh.aks.ac.kr/~sonamu5/sndm/1_raw_data/1_1-%EA%B3%BC%EA%B1%B0_%ED%95%A9%EA%B2%A9%EC%9E%90_%EB%8D%B0%EC%9D%B4%ED%84%B0(%EB%AC%B8%EA%B3%BC).xlsx
 * **Lee Jaeok Munkwa Kinship Edges:** http://dh.aks.ac.kr/~sonamu5/sndm/1_raw_data/2_1-%EC%B9%9C%EC%86%8D_%EB%8D%B0%EC%9D%B4%ED%84%B0(%EB%AC%B8%EA%B3%BC).xlsx
 * **Lee Jaeok Mukwa Nodes:** http://dh.aks.ac.kr/~sonamu5/sndm/1_raw_data/1_2-%EA%B3%BC%EA%B1%B0_%ED%95%A9%EA%B2%A9%EC%9E%90_%EB%8D%B0%EC%9D%B4%ED%84%B0(%EB%AC%B4%EA%B3%BC).xlsx
