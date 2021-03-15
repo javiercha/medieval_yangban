@@ -21,3 +21,7 @@ The data sources are from the following:
 The Python notebooks extract a subset of genealogical information pertaining to every exam degree holder up to three generations above and below from Man'gabo and Mansŏng Taedongbo.
 
 The temporal coverage is from 958 to 1609, defined by ego's year of birth or year in which he attained an exam degree. My data analysis is limited to 1567, or the death of King Munjong (r. 1545-1567). Any results concerning egos in the data set after 1567 should consider the 1609 cutoff point.
+
+The .csv files in the /neo4j folder are loaded onto Neo4j and merged therein. The Cypher queries used in that process is the subject of a paper currently under preparation. Network analysis of intersecting kinship trees will be featured in my monograph.
+
+Subsequent updates will have Jupyter notebooks that query the Neo4j database and uses networkx and other Python packages to analyze the graph data.
