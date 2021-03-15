@@ -1,6 +1,6 @@
 # Medieval Yangban
 
-In this space, I share the Jupyter notebooks and data sets used in my digital historical research of the medieval Korean yangban. This monograph-length study is an extension and data-heavy treatment of the _problématique_ covered in the article "[To Build a Centralizing Regime: Yangban Aristocracy and Medieval Patrimonialism](https:**//doi.org/10.1353/seo.2019.0003)."
+In this space, I share the Jupyter notebooks and data sets used in my digital historical research of the medieval Korean yangban. This monograph-length study is an extension and data-heavy treatment of the _problématique_ covered in the article "[To Build a Centralizing Regime: Yangban Aristocracy and Medieval Patrimonialism](https://doi.org/10.1353/seo.2019.0003)."
 
 ***
 Data sources:
